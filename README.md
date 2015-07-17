@@ -7,8 +7,9 @@ This script uses 2 libraries:
 2. [scp for paramiko](https://github.com/jbardin/scp.py) 
 
 ##To Setup:
-1. Download/clone repository
-2. cd into the newly cloned/downloaded repository and run `sudo python setup.py install` (sudo is necessary for pip to install the 2 above libraries this script depends on to run)
+1. Make sure you have [pip installed](https://pip.pypa.io/en/latest/installing.html#install-pip)
+2. Download/clone repository
+3. cd into the newly cloned/downloaded repository and run `sudo python setup.py install` (sudo is necessary for pip to install the 2 above libraries this script depends on to run)
 
 ##Example Usage:
 
